@@ -75,4 +75,3 @@ function copiar() {
     //console.log(copiado);
     alert("Texto copiado!");
 }
-
